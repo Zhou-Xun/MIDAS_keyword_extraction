@@ -53,9 +53,8 @@ There are three sections in this project (under root):
 ### 2. Keyword Extraction
 #### 2.1 How to run: 
 - `python output_keyword.py [-m <model>]`
+- merge the json output
+  - `python merge_json_union.py`
 
-#### Installation
+#### 2.2 Installation
 - Please refer to the requirements.txt
-
-#### merge the json output
-- `python merge_json_union.py`

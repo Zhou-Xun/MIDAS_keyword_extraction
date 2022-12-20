@@ -1,4 +1,21 @@
-# MIDAS_keyword_extraction
+## MIDAS_keyword_extraction
+This project is for MIDAS team to extract keywords from pdf files.<br>
+There are three sections in this project:
+- fit_Tesseract_OCR.py: Extract text from pdf using partial ocr
+- output_keyword.py: Extract keyword from text using different models(3 models for now)
+- old directory: Old project for keyword extraction(including how to build wiki dictionary and how to use rake)
+  - For details, please see README.md in the old directory.
+
+<ol>
+    <li>Extract text from pdf using partial ocr</li>
+    <ol>
+        <li>How to run: `python fitz_Tesseract_OCR.py [-m page]`</li>
+
+</ol>
+    <li>Keyphrase extraction</li>
+</ol>
+
+
 
 #### Install Tesseract
 

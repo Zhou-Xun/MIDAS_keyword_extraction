@@ -25,10 +25,8 @@ def read_json_and_merge(file_path):
                 data = json.load(f)
             for value in data.values():
                 keyword_list += list(map(lambda x: x.lower(), value))
-            print(len(keyword_list))
 
     keyword_list = list(set(keyword_list))
-    print(len(keyword_list))
     with open('output_keyword/keyword.txt', 'w') as f:
         for keyword in keyword_list:
             f.write(f"{keyword}\n")

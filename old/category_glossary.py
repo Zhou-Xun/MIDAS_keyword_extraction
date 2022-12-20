@@ -1,4 +1,5 @@
 # Thomas Horak (thorames)
+# Xun Zhou (xunzhou)
 # category_glossary.py
 import os
 import re

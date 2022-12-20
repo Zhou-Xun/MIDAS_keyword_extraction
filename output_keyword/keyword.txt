@@ -1,69 +1,70 @@
-kidney
-lung cells
-lung tissue
-citric acid
-rapamycin
-justin lange
-air-liquid interface
-sars - cov - 2 infection
-rolteration
-t deptor
-##s - cov -
 sars-cov-2
-mtorc1 activation
-glycolysis
-betorct mists
-lung ali culture
-mtorc1 inhibition
-cell metabolism
-tor
-lung air-liquid interface (ali)
-actin
-treatment strategy
-viral replication
-##s -
-torc1
-pyruvate
-chem 451
-mt orc1
-protein lipid
-natural communication
-mtor
-pyruvate carboxylase
-cytoskeletal metabolism rearrangements
 mntor rapamycin
-covid-19
-reductive carboxylation
-virus
-|
-succinyl - coa
-cell death
 infected kidney
-glucose carbon entry
-aconitate
-mtorc1
-carboxylase
-sars-cov-2 infection
-##uctive carboxylation
-lung
-kidney epithelial cells
-host cell metabolism
-pyruvate entry
-ctos so [== - + ps6 (s235/236)
-ernst w. schmid
-cell lines
-mw.
-host cell
-glycerol
-lipid synthesis
-replication
+viral replication
+air-liquid interface
+##s - cov -
+mtorc1 activation
 virulence
-oxaloacetate
-mtorc1 inhibitors
-##ol
-lung ali cultures
-mucociliary ali cultures
-sars - cov - 2
-glutamine
-nature
+sars - cov - 2 infection
+ctos so [== - + ps6 (s235/236)
+pyruvate carboxylase
+lung air-liquid interface (ali)
+reductive carboxylation
 ucleotide aerobic synthesis
+nature
+host cell metabolism
+oxaloacetate
+pyruvate
+treatment strategy
+kidney
+lung ali cultures
+justin lange
+##ol
+glycolysis
+kidney epithelial cells
+pyruvate entry
+carboxylase
+protein lipid
+glucose
+lung tissue
+##uctive carboxylation
+mtorc1
+##s -
+lung cells
+sars-cov-2 infection
+actin
+mtorc1 inhibition
+glucose carbon entry
+t deptor
+replication
+lung ali culture
+mtor
+mtorc1 inhibitors
+lung
+cytoskeletal metabolism rearrangements
+glycerol
+glutamine
+rapamycin
+tor
+succinyl - coa
+|
+lipid synthesis
+mucociliary ali cultures
+citric acid
+virus
+torc1
+mt orc1
+chem 451
+cell lines
+host cell
+mw.
+cell death
+covid-19
+sars - cov - 2
+ernst w. schmid
+natural communication
+aconitate
+rolteration
+betorct mists
+cell metabolism

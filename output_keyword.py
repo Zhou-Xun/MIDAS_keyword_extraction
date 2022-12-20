@@ -1,3 +1,4 @@
+# Xun Zhou (xunzhou)
 import os
 import sys, getopt
 import json
@@ -5,7 +6,6 @@ import json
 sys.path.append("./model")
 import keyphrase_extraction_kbir_inspec as kbir
 import bert_uncased_keyword_extractor as bert
-# !pip install keyphrasetransformer
 from keyphrasetransformer import KeyPhraseTransformer
 
 

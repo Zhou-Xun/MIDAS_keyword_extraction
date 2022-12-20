@@ -1,4 +1,5 @@
 # Thomas Horak (thorames)
+# Xun Zhou (xunzhou)
 # glossary_transcripts.py
 import nltk
 nltk.download('stopwords')
